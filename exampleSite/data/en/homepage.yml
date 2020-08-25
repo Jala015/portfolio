@@ -111,11 +111,7 @@ call_to_action:
 portfolio:
   enable: true
   title: PORTFOLIO
-  portfolio_list:
-  - name: Escalas da Biodiversidade
-    image: images/escalascaderno.png
-    date: "2018"
-    category: []
+  portfolio_list: []
 testimonial:
   enable: false
   title: TESTIMONIALS
