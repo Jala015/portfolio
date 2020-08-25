@@ -76,16 +76,20 @@ experience:
       vídeos de divulgação científica.
 skill:
   enable: true
-  title: SKILL
+  title: HABILIDADES CRIATIVAS
   skill_list:
-  - name: Web Development
-    parcentage: 98%
-  - name: Graphic Design
-    parcentage: 85%
-  - name: Database Management
-    parcentage: 90%
-  - name: Wordpress
-    parcentage: 70%
+  - name: Modelagem/Animação 3D
+    parcentage: 100%
+  - name: Edição de Vídeos
+    parcentage: 100%
+  - name: Processamento digital de imagens
+    parcentage: 100%
+  - name: Desenho Vetorial
+    parcentage: 100%
+  - name: Animação 2D
+    parcentage: "80"
+  - name: Desenvolvimento Web
+    parcentage: 60%
 service:
   enable: true
   title: SERVICES
