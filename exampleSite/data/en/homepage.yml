@@ -111,7 +111,11 @@ call_to_action:
 portfolio:
   enable: true
   title: PORTFOLIO
-  portfolio_list: []
+  portfolio_list:
+  - image: images/escalascaderno.png
+    date: "2018"
+    category: ''
+    name: Post para o Instituto Butantan
 testimonial:
   enable: false
   title: TESTIMONIALS
