@@ -4,32 +4,32 @@
 - id: address
   translation: Meu endereço
 - id: phone
-  translation: Phone Number
+  translation: Número de telefone
 - id: email
-  translation: Message Us
+  translation: Me mande uma mensagem
 - id: contact_form
-  translation: Contact Form
+  translation: Formulário de contato
 - id: send
-  translation: send message
+  translation: enviar mensagem
 - id: follow
-  translation: FOLLOW US ON
+  translation: me siga no
 - id: services
-  translation: Services
+  translation: Serviços
 - id: contact_info
-  translation: Contact Info
+  translation: Informações de Contato
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Inscreva-se na Newsletter
 - id: subscribe
-  translation: Subscribe
+  translation: Inscrever-se
 - id: connect_with_us
-  translation: Connect With Us
+  translation: Conectar
 - id: call_now
-  translation: Call Now
+  translation: Me ligue
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Digitar e Enter
 - id: latest_article
-  translation: Latest Article
+  translation: Último artigo
 - id: category
-  translation: Category
+  translation: Categoria
 - id: tags
   translation: Tags
