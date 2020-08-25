@@ -96,18 +96,12 @@ service:
   service_list:
   - name: Criação de websites
     image: images/icons/web-development.png
-  - name: Graphic Design
+  - name: Edição de fotos
     image: images/icons/graphic-design.png
-  - name: Database Management
-    image: images/icons/dbms.png
-  - name: Software Development
-    image: images/icons/software-development.png
-  - name: Digital Marketing
+  - name: Análise de dados
     image: images/icons/marketing.png
-  - name: Mobile App Development
-    image: images/icons/mobile-app.png
 call_to_action:
-  enable: true
+  enable: false
   bg_image: images/backgrounds/need-service.jpg
   title: NEED A SERVICE?
   button:
@@ -179,7 +173,7 @@ portfolio:
     date: Feb 2018
     category: Graphics
 testimonial:
-  enable: true
+  enable: false
   title: TESTIMONIALS
   testimonial_slider:
   - name: Micheal Clark
@@ -201,7 +195,7 @@ testimonial:
       omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error
       dignissimos in iusto.
 funfacts:
-  enable: true
+  enable: false
   funfacts_list:
   - name: HANDS TO WORK
     image: images/icons/works.png
