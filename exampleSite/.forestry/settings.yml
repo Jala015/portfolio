@@ -7,7 +7,6 @@ sections:
 - type: document
   path: exampleSite/data/en/homepage.yml
   label: Homepage
-  match: "**/*"
 - type: heading
   label: Data
 - type: directory
