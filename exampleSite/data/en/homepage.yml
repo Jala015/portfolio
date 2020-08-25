@@ -43,20 +43,12 @@ experience:
   enable: true
   title: EXPERIÊNCIA
   experience_list:
-  - name: Youtube
-    company: Canal Dispersciência
-    duration: 2016-2018
+  - name: Sócio-fundador
+    company: Grupo Ibiraçu
+    duration: 2018-2020
     content: |-
-      Desenvolvimento de roteiros e edição de
-      vídeos de divulgação científica.
-  - name: Treinamento Técnico
-    company: Instituto Butantan - Projeto Escalas da Biodiversidade
-    duration: 2018-2019
-    content: |-
-      Projeto bilingue em parceria com laboratórios nos EUA. Fui responsável pela produção de material educativo para mídias sociais:
-      > Publicações
-       > Ilustrações (vetoriais e raster)
-       > Captação e edição de entrevistas
+      Elaboração de cursos de ecologia ao ar livre e
+      produção de animações educativas
   - name: Iniciação Científica
     company: Instituto Butantan
     duration: 2019-2020
@@ -68,6 +60,20 @@ experience:
     duration: "2017"
     content: Organização e análise de dados de espectofotômetro para mapear as algas
       brasileiras.
+  - name: Treinamento Técnico
+    company: Instituto Butantan - Projeto Escalas da Biodiversidade
+    duration: 2018-2019
+    content: |-
+      Projeto bilingue em parceria com laboratórios nos EUA. Fui responsável pela produção de material educativo para mídias sociais:
+      > Publicações
+       > Ilustrações (vetoriais e raster)
+       > Captação e edição de entrevistas
+  - name: Criador de conteúdo
+    company: Canal Dispersciência
+    duration: 2016-2018
+    content: |-
+      Desenvolvimento de roteiros e edição de
+      vídeos de divulgação científica.
 skill:
   enable: true
   title: SKILL
