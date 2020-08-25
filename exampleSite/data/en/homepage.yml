@@ -16,7 +16,7 @@ hero:
     label: PORTFOLIO
     link: "#portfolio"
 fullscreen_nav:
-  enable: true
+  enable: false
   bg_image: images/backgrounds/full-nav-bg.jpg
   first_name: Felipe
   last_name: Simões
