@@ -22,15 +22,21 @@ fullscreen_nav:
 about:
   enable: true
   image: images/backgrounds/portrait.jpg
-  title: KNOW MORE <br> ABOUT ME
-  content: "It's Somrat, Professional Web Developer. I love to write code, it's my
-    passoin. I am here to help you, i am here to design your web page. i can help
-    you to describe yourself in the best way.<br>No matter how difficult your web
-    page is, i will find an easy way and complete your work anyway. Stay connect with
-    me............\U0001F60A"
+  title: QUEM SOU <br> EU
+  content: |-
+    Biólogo aficcionado por computadores e análise de
+    dados. Autodidata por natureza, aprendi a programar
+    em diversas linguagens (Python, R, Lua, Javascript).
+    Tenho maior interesse pela área de ecologia urbana.
+    <br><br>
+    Também tenho um perfil criativo e artístico. Faço
+    animações em 2D e 3D, desenhos vetoriais,
+    processamento de imagens digitais e webdesign.
+    Busco combinar essas habilidades com a biologia
+    através da produção de materiais educativos.
   button:
     enable: true
-    label: DOWNLOAD MY CV
+    label: CURRÍCULO EM PDF
     link: "#"
 experience:
   enable: true
