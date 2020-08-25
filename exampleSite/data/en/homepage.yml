@@ -113,7 +113,7 @@ portfolio:
   title: PORTFOLIO
   portfolio_list:
   - name: Escalas da Biodiversidade
-    image: images/EscalasCaderno.jpg
+    image: images/escalascaderno.png
     date: "2018"
     category: []
 testimonial:
