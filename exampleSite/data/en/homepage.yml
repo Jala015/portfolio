@@ -115,8 +115,7 @@ portfolio:
   - name: Escalas da Biodiversidade
     image: images/EscalasCaderno.jpg
     date: "2018"
-    category:
-    - Design gráfico
+    category: []
 testimonial:
   enable: false
   title: TESTIMONIALS
