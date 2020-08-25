@@ -87,7 +87,7 @@ skill:
   - name: Desenho Vetorial
     parcentage: 100%
   - name: Animação 2D
-    parcentage: "80"
+    parcentage: 80%
   - name: Desenvolvimento Web
     parcentage: 60%
 service:
