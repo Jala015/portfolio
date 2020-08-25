@@ -6,6 +6,7 @@ hero:
   - Programador
   - Editor de vídeos
   - Modelador 3D
+  - Fotógrafo
   slider_image:
   - images/slider/slider-1.jpg
   - images/slider/slider-2.jpg
@@ -42,6 +43,12 @@ experience:
   enable: true
   title: EXPERIÊNCIA
   experience_list:
+  - name: Youtube
+    company: Canal Dispersciência
+    duration: 2016-2018
+    content: |-
+      Desenvolvimento de roteiros e edição de
+      vídeos de divulgação científica.
   - name: Treinamento Técnico
     company: Instituto Butantan - Projeto Escalas da Biodiversidade
     duration: 2018-2019
