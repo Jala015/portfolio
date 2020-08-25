@@ -6,7 +6,7 @@ title = "Felipe Simões"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 home = "Home"
-languageCode = "en-us"
+languageCode = "pt-br"
 languageName = "En"
 weight = 1
 [Languages.fr]
