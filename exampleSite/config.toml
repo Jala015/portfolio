@@ -76,7 +76,7 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/owl-carousel/owl.carousel.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fa-linkedin"
