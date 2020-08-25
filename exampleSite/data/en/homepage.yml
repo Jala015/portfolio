@@ -40,13 +40,16 @@ about:
     link: "#"
 experience:
   enable: true
-  title: EXPERIENCE
+  title: EXPERIÊNCIA
   experience_list:
-  - name: Web Developer
-    company: Fiverr.com
-    duration: 2016-2018
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-comerches etc.
+  - name: Treinamento Técnico
+    company: Instituto Butantan - Projeto Escalas da Biodiversidade
+    duration: 2018-2019
+    content: |-
+      Projeto bilingue em parceria com laboratórios nos EUA. Fui responsável pela produção de material educativo para mídias sociais:
+       - Publicações
+       - Ilustrações (vetoriais e raster)
+       - Captação e edição de entrevistas
   - name: Graphic Designer
     company: Fiverr.com
     duration: 2015-2018
