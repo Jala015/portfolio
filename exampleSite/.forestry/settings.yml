@@ -7,16 +7,6 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
   path: exampleSite/i18n
   label: i18n
   create: documents
