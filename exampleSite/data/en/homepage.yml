@@ -92,9 +92,9 @@ skill:
     parcentage: 60%
 service:
   enable: true
-  title: SERVICES
+  title: SERVIÇOS
   service_list:
-  - name: Web Development
+  - name: Criação de websites
     image: images/icons/web-development.png
   - name: Graphic Design
     image: images/icons/graphic-design.png
