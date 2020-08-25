@@ -56,11 +56,11 @@ experience:
     content: Projeto estudando migração de aves com o uso de ciência cidadã. Realizei
       análise e interpretação de big data (~17 milhões de registros) utilizando Sistema
       de Informações Geográficas (GIS).
-  - name: Database Manager
-    company: Polytechnic
-    duration: 2014-2018
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
+  - name: Estágio
+    company: Laboratório de Ecologia da Paisagem e Conservação
+    duration: "2017"
+    content: Organização e análise de dados de espectofotômetro para mapear as algas
+      brasileiras.
 skill:
   enable: true
   title: SKILL
