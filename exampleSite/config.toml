@@ -1,4 +1,4 @@
-baseURL = "https://felipesimoes.netlify.com"
+baseURL = "https://felipesimoes.netlify.app"
 disableLanguages = ["Fr"]
 theme = "somrat"
 title = "Felipe Simões"
